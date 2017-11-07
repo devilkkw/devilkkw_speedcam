@@ -1,0 +1,8 @@
+C:\Users\clod\Documents\Visual Studio 2017\progetti\devilkkw_speedcam\devilkkw_speedcam\bin\Debug\devilkkw_speedcam.dll
+C:\Users\clod\Documents\Visual Studio 2017\progetti\devilkkw_speedcam\devilkkw_speedcam\bin\Debug\devilkkw_speedcam.pdb
+C:\Users\clod\Documents\Visual Studio 2017\progetti\devilkkw_speedcam\devilkkw_speedcam\bin\Debug\ScriptHookVDotNet2.dll
+C:\Users\clod\Documents\Visual Studio 2017\progetti\devilkkw_speedcam\devilkkw_speedcam\bin\Debug\ScriptHookVDotNet2.xml
+C:\Users\clod\Documents\Visual Studio 2017\progetti\devilkkw_speedcam\devilkkw_speedcam\obj\Debug\devilkkw_speedcam.csprojResolveAssemblyReference.cache
+C:\Users\clod\Documents\Visual Studio 2017\progetti\devilkkw_speedcam\devilkkw_speedcam\obj\Debug\devilkkw_speedcam.csproj.CoreCompileInputs.cache
+C:\Users\clod\Documents\Visual Studio 2017\progetti\devilkkw_speedcam\devilkkw_speedcam\obj\Debug\devilkkw_speedcam.dll
+C:\Users\clod\Documents\Visual Studio 2017\progetti\devilkkw_speedcam\devilkkw_speedcam\obj\Debug\devilkkw_speedcam.pdb
